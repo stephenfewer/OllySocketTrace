@@ -29,6 +29,9 @@ socket being traced. Right clicking on any row will give you some
 options such as to view the recorded data trace. You can also filter out 
 unwanted information if you are only concerned with a specific socket. 
 
+----[License]-----------------------------------------------------------
+The OllySocketTrace source code is available under the GPLv3 license,
+please see the included file gpl-3.0.txt for details.
 
 ----[Changelog]---------------------------------------------------------
 v1.0 - 21 August 2008
